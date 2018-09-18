@@ -1,4 +1,4 @@
-git is adistributet
+t  add a new switch git is adistributet
 
 
 
