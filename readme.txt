@@ -1,5 +1,5 @@
 <<<<<<< HEADti
-git last modefied
+git last modefiedttii     new dev
 git is adistributett        master modifed
 =======
 t  add a new switch git is adistributet
