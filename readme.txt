@@ -1,3 +1,4 @@
+njnnnnn:wq
 <<<<<<< HEADti
 git last modefiedttii     new dev
 git is adistributett        master modifed
